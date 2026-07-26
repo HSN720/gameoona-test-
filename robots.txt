@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gameoona.com/sitemap.xml
+Sitemap: https://hsn720.github.io/gameoona-test-/sitemap.xml
